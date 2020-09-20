@@ -42,6 +42,7 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **This Week I Spent My Time On:**
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -118,7 +119,7 @@ C#                       5 repos             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-🚧 **My Todoist Stats:**
+<!-- 🚧 **My Todoist Stats:** -->
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 
