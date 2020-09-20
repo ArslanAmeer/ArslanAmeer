@@ -138,7 +138,8 @@ C#                       5 repos             █░░░░░░░░░░�
 
 <summary>📈 My GitHub Stats</summary>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&repo=github-readme-stats" alt="ArslanAmeer" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&repo=github-readme-stats&hide=contribs" alt="ArslanAmeer" />
 
-
+<hr/>
+[![Ui-Component-Dev-Loader](https://github-readme-stats.vercel.app/api/pin/?username=arslanameer&repo=Ui-Component-Dev-Loader)](https://github.com/ArslanAmeer/Ui-Component-Dev-Loader)
 
