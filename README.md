@@ -1,22 +1,25 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/ArslanAmeer#5079" style="color: #ccc">
-  <img align="left" alt="Arslan's Discord" style="color: #ccc" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="Arslan's Discord" style="color: #ccc" width="22px" src="https://cdn.worldvectorlogo.com/logos/discord.svg" />
 </a>
 <a href="https://twitter.com/ThELeGenD_Says">
-  <img align="left" alt="Arslan's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Arslan's | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/arslanameer/">
-  <img align="left" alt="Arslan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Arslan's LinkdeIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
 <a href="https://www.instagram.com/lk2712/">
-  <img align="left" alt="Arslan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Arslan's Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" />
+</a>
+<a href="https://www.facebook.com/arslanameer2712">
+  <img align="left" alt="Arslan's Facebook" width="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-2.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ArslanAmeer.ArslanAmeer)
 
 <br />
 
-Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@Tailorie](https://github.com/Tailorie), Mentor 👨🏽‍💼[@GeekCo](https://github.com/Geeky-Coder-Co), Freelancer :busts_in_silhouette: @ <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" alt="arslanameer fiverr" width="16" height="16" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" alt="arslanameer fiverr" width="16" height="16" /> and an Open Source contributer. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@Tailorie](https://github.com/Tailorie), Mentor 👨🏽‍💼[@GeekCo](https://github.com/Geeky-Coder-Co), Freelancer :busts_in_silhouette: @ <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="arslanameer fiverr" width="16" height="16" /> <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="arslanameer fiverr" width="16" height="16" /> and an Open Source contributer. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
