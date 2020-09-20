@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@Tailorie](https://github.com/Tailorie), Mentor 👨🏽‍💼[@GeekCo](https://github.com/Geeky-Coder-Co), Freelancer at [](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg) [](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg) and an Open Source contributer. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@Tailorie](https://github.com/Tailorie), Mentor 👨🏽‍💼[@GeekCo](https://github.com/Geeky-Coder-Co), Freelancer :busts_in_silhouette: @ <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" alt="arslanameer fiverr" width="16" height="16" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" alt="arslanameer fiverr" width="16" height="16" /> and an Open Source contributer. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -25,91 +25,54 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Microservices using nodejs & AWS; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Arslan Ameer](www.arslanameer.com);
-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
+- 📫 How to reach me: [contact@arslanameer.com](contact@arslanameer.com);
+- 📝 My [Portfolio](www.arslanameer.com)
 
 **Languages and Tools:**  
 
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular-js" width="25" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="25" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/less.svg" alt="less" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="25" width="25">
+<img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET Core" width="25" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="25" width="25">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="25" height="25" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="nginx" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="heroku" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" >
+<img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" width="25" height="25" >
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" width="25" height="25" >
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="25" height="25" >
+  <img src="https://cdn.worldvectorlogo.com/logos/invision.svg" width="25" height="25" >
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="25" height="25" >
+  <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="25" height="25" >
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" width="25" height="25" >
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" width="25" height="25" >
+  <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" width="25" height="25" >
+  <img src="https://cdn.worldvectorlogo.com/logos/resharperc-icon.svg" width="25" height="25" >
+  <img src="https://cdn.worldvectorlogo.com/logos/github-1.svg" width="25" height="25" >
+  <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" width="25" height="25" >
+  <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="25" height="25" >
 </p>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ArslanAmeer&show_icons=true&count_private=true" alt="spiderpig86" /> -->
-
-📊 **This Week I Spent My Time On:**
-
+<hr/>
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    74 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.76% 
-🌆 Daytime    503 commits    █████████░░░░░░░░░░░░░░░░   39.14% 
-🌃 Evening    374 commits    ███████░░░░░░░░░░░░░░░░░░   29.11% 
-🌙 Night      334 commits    ██████░░░░░░░░░░░░░░░░░░░   25.99%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       251 commits    █████░░░░░░░░░░░░░░░░░░░░   19.53% 
-Tuesday      199 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.49% 
-Wednesday    175 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.62% 
-Thursday     228 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.74% 
-Friday       225 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.51% 
-Saturday     76 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.91% 
-Sunday       131 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.19%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     52 repos            █████████████░░░░░░░░░░░░   53.61% 
-CSS                      18 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.56% 
-JavaScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.4% 
-TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.19% 
-C#                       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.15%
-
-```
-
-
-
 <!--END_SECTION:waka-->
 
 <!-- 🚧 **My Todoist Stats:** -->
@@ -118,7 +81,7 @@ C#                       5 repos             █░░░░░░░░░░�
 
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&repo=github-readme-stats" alt="ArslanAmeer" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&repo=github-readme-stats" alt="ArslanAmeer" />
 
 
 
