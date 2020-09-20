@@ -43,6 +43,79 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 711 Contributions in the Year 2020
+ > 
+> 📦 0 Bytes Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 51 Public Repositories
+ > 
+> 🔑 0 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    74 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.78% 
+🌆 Daytime    503 commits    █████████░░░░░░░░░░░░░░░░   39.27% 
+🌃 Evening    374 commits    ███████░░░░░░░░░░░░░░░░░░   29.2% 
+🌙 Night      330 commits    ██████░░░░░░░░░░░░░░░░░░░   25.76%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       247 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.28% 
+Tuesday      199 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.53% 
+Wednesday    175 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
+Thursday     228 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.8% 
+Friday       225 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.56% 
+Saturday     76 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.93% 
+Sunday       131 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.23%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Karachi
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     52 repos            █████████████░░░░░░░░░░░░   53.61% 
+CSS                      18 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.56% 
+JavaScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.4% 
+TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.19% 
+C#                       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.15%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/ArslanAmeer/ArslanAmeer/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 🚧 **My Todoist Stats:**
