@@ -1,3 +1,5 @@
+<hr/>
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/ArslanAmeer#5079" style="color: #ccc">
   <img align="left" alt="Arslan's Discord" style="color: #ccc" width="22px" src="https://cdn.worldvectorlogo.com/logos/discord.svg" />
@@ -141,5 +143,3 @@ C#                       5 repos             █░░░░░░░░░░�
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&repo=github-readme-stats&hide=contribs" alt="ArslanAmeer" />
 
 <hr/>
-[![Ui-Component-Dev-Loader](https://github-readme-stats.vercel.app/api/pin/?username=arslanameer&repo=Ui-Component-Dev-Loader)](https://github.com/ArslanAmeer/Ui-Component-Dev-Loader)
-
