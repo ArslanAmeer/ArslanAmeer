@@ -52,7 +52,7 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" >
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=ArslanAmeer&show_icons=true&count_private=true" alt="spiderpig86" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ArslanAmeer&show_icons=true&count_private=true" alt="spiderpig86" /> -->
 
 📊 **This Week I Spent My Time On:**
 
@@ -124,10 +124,6 @@ C#                       5 repos             █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://github.com/ArslanAmeer/ArslanAmeer/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
