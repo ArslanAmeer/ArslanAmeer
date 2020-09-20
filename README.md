@@ -12,7 +12,7 @@
   <img align="left" alt="Arslan's Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" />
 </a>
 <a href="https://www.facebook.com/arslanameer2712">
-  <img align="left" alt="Arslan's Facebook" width="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-2.svg" />
+  <img align="left" alt="Arslan's Facebook" height="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-2.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ArslanAmeer.ArslanAmeer)
