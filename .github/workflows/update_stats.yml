@@ -21,4 +21,6 @@ jobs:
           SHOW_TIMEZONE: "FALSE"
           SHOW_SHORT_INFO: "FALSE"
           SHOW_LOC_CHART: "FALSE"
+          SHOW_LINES_OF_CODE: "TRUE"
+          SHOW_LANGUAGE_PER_REPO: "TRUE"
         
