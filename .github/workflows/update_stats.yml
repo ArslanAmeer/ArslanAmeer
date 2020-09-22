@@ -17,8 +17,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "TRUE"
           SHOW_PROJECTS: "FALSE"
-          SHOW_PROFILE_VIEWS: "FALSE"
-          SHOW_TIMEZONE: "FALSE"
+          SHOW_PROFILE_VIEWS: "TRUE"
+          SHOW_TIMEZONE: "TRUE"
           SHOW_SHORT_INFO: "FALSE"
           SHOW_LOC_CHART: "FALSE"
           SHOW_LINES_OF_CODE: "TRUE"
