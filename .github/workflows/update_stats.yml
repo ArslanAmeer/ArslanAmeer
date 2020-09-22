@@ -16,7 +16,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "TRUE"
-          SHOW_PROJECTS: "TRUE"
+          SHOW_PROJECTS: "FALSE"
           SHOW_PROFILE_VIEWS: "FALSE"
           SHOW_TIMEZONE: "FALSE"
           SHOW_SHORT_INFO: "FALSE"
