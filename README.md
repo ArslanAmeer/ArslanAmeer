@@ -78,7 +78,10 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ArslanAmeer&show_icons=true&count_private=true" alt="spiderpig86" /> -->
 <hr/>
 <!--START_SECTION:waka-->
+
+<br/>
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.8%20million%20lines%20of%20code-blue)
+<br/>
 
 **I'm a Night 🦉** 
 
