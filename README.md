@@ -5,7 +5,7 @@
   <img align="left" alt="Arslan's Discord" style="color: #ccc" width="22px" src="https://cdn.worldvectorlogo.com/logos/discord.svg" />
 </a>
 <a href="https://twitter.com/ThELeGenD_Says">
-  <img align="left" alt="Arslan's | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter.svg" />
+  <img align="left" alt="Arslan's | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />
 </a>
 <a href="https://www.linkedin.com/in/arslanameer/">
   <img align="left" alt="Arslan's LinkdeIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
@@ -75,6 +75,8 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan
   <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="25" height="25" >
 </p>
+
+<hr/>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.8%20million%20lines%20of%20code-blue)
