@@ -78,7 +78,7 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan
 
 <br />
 
-#### <img align="left" alt="Arslan's Spotify" width="75px" src="https://cdn.worldvectorlogo.com/logos/spotify-logo-with-text-1.svg"/> Now Playing 
+#### <img align="left" alt="Arslan's Spotify" width="75px" src="https://cdn.worldvectorlogo.com/logos/spotify-logo-with-text-1.svg"/> Now Playing 🎧 
    [![Spotify](https://novatorem.arslanameer.vercel.app/api/spotify)](https://open.spotify.com/user/mqjqw4pv2745llonloqsqlijc?si=wlRAdEdEQ5aPabN4e_KJXQ)
 
 <hr/>
