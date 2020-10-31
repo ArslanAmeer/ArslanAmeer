@@ -144,8 +144,10 @@ C#                       5 repos             █░░░░░░░░░░�
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 
-<summary>📈 My GitHub Stats</summary>
-<br>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&repo=github-readme-stats&hide=contribs" alt="ArslanAmeer" />
+<details>
+  <summary>:zap: 📈 My GitHub Stats</summary>
+  <br>
+  <p align="left"> <img src="https://github-readme-stats.arslanameer.vercel.app/api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&repo=github-readme-stats&hide=contribs" alt="ArslanAmeer" />
+<details>
 
 <hr/>
