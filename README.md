@@ -76,8 +76,11 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan
   <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="25" height="25" >
 </p>
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.arslanameer.vercel.app/api/spotify)](https://open.spotify.com/user/mqjqw4pv2745llonloqsqlijc?si=wlRAdEdEQ5aPabN4e_KJXQ)
+<br />
+
+** Spotify Playing 🎧
+
+   [![Spotify](https://novatorem.arslanameer.vercel.app/api/spotify)](https://open.spotify.com/user/mqjqw4pv2745llonloqsqlijc?si=wlRAdEdEQ5aPabN4e_KJXQ)
 
 <hr/>
 
@@ -146,11 +149,10 @@ C#                       5 repos             █░░░░░░░░░░�
 <!-- 🚧 **My Todoist Stats:** -->
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
-
-<details>
   <summary>:zap: 📈 My GitHub Stats</summary>
   <br>
-  <p align="left"> <img src="https://github-readme-stats.arslanameer.vercel.app/api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&repo=github-readme-stats&hide=contribs" alt="ArslanAmeer" />
-<details>
+  <p align="left"> 
+    <img src="https://github-readme-stats.arslanameer.vercel.app/api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&repo=github-readme-stats&hide=contribs" alt="ArslanAmeer" />
+    </p>
 
 <hr/>
