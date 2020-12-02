@@ -31,7 +31,7 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan
 - 🌱 I’m currently learning Microservices using nodejs & AWS; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [contact@arslanameer.com](contact@arslanameer.com);
-- 📝 My [Portfolio](www.arslanameer.com)
+- 📝 My [Portfolio](https://www.arslanameer.com/)
 
 **Languages and Tools:**  
 
