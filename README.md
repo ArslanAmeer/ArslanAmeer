@@ -59,7 +59,7 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="heroku" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" >
 <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" width="25" height="25" >
@@ -71,7 +71,7 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/resharperc-icon.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/github-1.svg" width="25" height="25" >
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="25" height="25" >
 </p>
