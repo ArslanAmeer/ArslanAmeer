@@ -11,7 +11,7 @@
   <img align="left" alt="Arslan's LinkdeIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
 <a href="https://www.instagram.com/lk2712/">
-  <img align="left" alt="Arslan's Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" />
+  <img align="left" alt="Arslan's Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />
 </a>
 <a href="https://www.facebook.com/arslanameer2712">
   <img align="left" alt="Arslan's Facebook" height="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-2.svg" />
