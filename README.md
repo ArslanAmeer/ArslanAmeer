@@ -23,7 +23,7 @@
 
 Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@Tailorie](https://github.com/Tailorie), Mentor 👨🏽‍💼[@GeekCo](https://github.com/Geeky-Coder-Co), Freelancer :busts_in_silhouette: @ <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="arslanameer fiverr" width="16" height="16" /> <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="arslanameer fiverr" width="16" height="16" /> and an Open Source contributer. Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/ArslanAmeer/ArslanAmeer/blob/master/assets/arslan-coding.gif" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
 
