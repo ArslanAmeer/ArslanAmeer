@@ -5,7 +5,7 @@
   <img align="left" alt="Arslan's Discord" style="color: #ccc" width="22px" src="https://cdn.worldvectorlogo.com/logos/discord.svg" />
 </a>
 <a href="https://twitter.com/ThELeGenD_Says">
-  <img align="left" alt="Arslan's | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />
+  <img align="left" alt="Arslan's | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />
 </a>
 <a href="https://www.linkedin.com/in/arslanameer/">
   <img align="left" alt="Arslan's LinkdeIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
@@ -55,6 +55,7 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="25" height="25" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="python" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="nginx" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="heroku" width="25" height="25" />
@@ -68,7 +69,7 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" width="25" height="25" >
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/resharperc-icon.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="25" height="25" >
