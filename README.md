@@ -154,8 +154,11 @@ C#                       5 repos             █░░░░░░░░░░�
 <!-- TODO-IST:END -->
   <summary>:zap: 📈 My GitHub Stats</summary>
   <br>
-  <p align="left"> 
-    <img src="https://github-readme-stats.arslanameer.vercel.app//api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&hide_border=true&hide=contribs" alt="ArslanAmeer Github Stats" />
-    </p>
+   
+   <div>
+<a href="https://github.com/arslanameer"><img src="https://github-readme-stats.arslanameer.vercel.app//api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&hide_border=true" width="450" align="right" /></a>
+<a href="https://github.com/arslanameer"><img src="https://arslan-github-streaks.herokuapp.com?user=arslanameer&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="450" /></a>
+</div>
+<!--   [![Arslan GitHub Streak](https://arslan-github-streaks.herokuapp.com?user=arslanameer&theme=dark&date_format=M%20j%5B%2C%20Y%5D)]() -->
 
 <hr/>
