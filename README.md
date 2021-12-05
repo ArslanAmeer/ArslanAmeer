@@ -10,6 +10,12 @@
 <a href="https://www.linkedin.com/in/arslanameer/">
   <img align="left" alt="Arslan's LinkdeIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
+<a href="https://www.showwcase.com/arslanameer">
+  <img align="left" alt="Arslan's Showwcase" width="22px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEQ8GtXpihTlA/company-logo_200_200/0/1633746807779?e=1646870400&v=beta&t=Z-DIljZtu5Na19cNhsiwKabkJI8raMgBJJ2-hYDwScs" />
+</a>
+<a href="https://stackoverflow.com/users/9195105/arslan-ameer">
+  <img align="left" alt="Arslan's Stack Overflow" width="18px" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" />
+</a>
 <a href="https://www.instagram.com/lk2712/">
   <img align="left" alt="Arslan's Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />
 </a>
