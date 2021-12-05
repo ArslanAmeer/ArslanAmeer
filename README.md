@@ -21,7 +21,7 @@
 
 <br />
 
-Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@Tailorie](https://github.com/Tailorie), Mentor 👨🏽‍💼[@GeekCo](https://github.com/Geeky-Coder-Co), Freelancer :busts_in_silhouette: @ <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="arslanameer fiverr" width="16" height="16" /> <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="arslanameer fiverr" width="16" height="16" /> and an Open Source contributer. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan, currently, I'm a full time *Developer*🧑🏻‍💻  [@SynaresSystems <img src="https://avatars.githubusercontent.com/u/78968432?s=200&v=4" alt="synaresSystems" width="16" height="16" />](https://github.com/Synares),  *Project Collaborator*👷🏻‍♂️  [@Tailorie <img src="https://avatars.githubusercontent.com/u/64091180?s=200&v=4" alt="tailorie" width="16" height="16" />](https://github.com/Tailorie), [@ClearFunds <img src="https://avatars.githubusercontent.com/u/72493713?s=200&v=4" alt="clear-funds" width="16" height="16" />](https://github.com/Clear-Funds), [@GotLaw <img src="https://avatars.githubusercontent.com/u/17888777?s=200&v=4" alt="got-law" width="16" height="16" />](https://github.com/GotLaw), *Mentor*🕵🏻  [@GeekCo <img src="https://avatars.githubusercontent.com/u/70113728?s=200&v=4" alt="GeekCo" width="16" height="16" />](https://github.com/Geeky-Coder-Co) and [@BizHub <img src="https://avatars.githubusercontent.com/u/67561117?s=200&v=4" alt="BizHub" width="16" height="16" />](https://github.com/Bizhub-Guyana), Freelancer 🥷🏼 @ <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="arslanameer fiverr" width="16" height="16" /> <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="arslanameer upwork" width="16" height="16" /> and an Open Source contributer. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/ArslanAmeer/ArslanAmeer/blob/master/assets/arslan-coding.gif" width="500" height="320" />
 
@@ -63,7 +63,7 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="25" height="25" >
 <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-6.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" width="25" height="25" >
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/invision.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="25" height="25" >
