@@ -11,7 +11,7 @@
   <img align="left" alt="Arslan's LinkdeIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
 <a href="https://www.showwcase.com/arslanameer">
-  <img align="left" alt="Arslan's Showwcase" width="22px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEQ8GtXpihTlA/company-logo_200_200/0/1633746807779?e=1646870400&v=beta&t=Z-DIljZtu5Na19cNhsiwKabkJI8raMgBJJ2-hYDwScs" />
+  <img align="left" alt="Arslan's Showwcase" width="22px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/jx4jznjkforzn6euhepo" />
 </a>
 <a href="https://stackoverflow.com/users/9195105/arslan-ameer">
   <img align="left" alt="Arslan's Stack Overflow" width="18px" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" />
