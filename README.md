@@ -54,7 +54,7 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan
 <img src="https://www.netclipart.com/pp/m/137-1372012_net-logos-download-logo-microsoft-net.png" alt=".NET" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET Core" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="25" width="25">
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="mongodb" width="25" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 <img src="https://banner2.cleanpng.com/20180817/csy/kisspng-microsoft-sql-server-microsoft-corporation-sql-ser-5b7663e3cd2565.5939753015344854758403.jpg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
