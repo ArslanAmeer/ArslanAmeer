@@ -1,6 +1,6 @@
 <hr/>
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px" alt="HI">
 <a href="https://discord.gg/ArslanAmeer#5079" style="color: #ccc">
   <img align="left" alt="Arslan's Discord" style="color: #ccc" width="22px" src="https://cdn.worldvectorlogo.com/logos/discord.svg" />
 </a>
