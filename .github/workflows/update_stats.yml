@@ -20,7 +20,14 @@ jobs:
           SHOW_PROFILE_VIEWS: "TRUE"
           SHOW_TIMEZONE: "TRUE"
           SHOW_SHORT_INFO: "TRUE"
-          SHOW_LOC_CHART: "FALSE"
+          SHOW_LOC_CHART: "TRUE"
           SHOW_LINES_OF_CODE: "TRUE"
           SHOW_LANGUAGE_PER_REPO: "TRUE"
+          COMMIT_BY_ME: "TRUE"
+          SHOW_TOTAL_CODE_TIME: "TRUE"
+          SHOW_COMMIT: "TRUE"
+          SHOW_DAYS_OF_WEEK: "TRUE"
+          SHOW_LANGUAGE: "TRUE"
+          SHOW_EDITORS: "TRUE"
+          
         
