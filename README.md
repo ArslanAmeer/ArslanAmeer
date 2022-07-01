@@ -34,9 +34,9 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Developer 🚀 from Pakistan
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Microservices using nodejs & AWS; 
+- 🌱 I’m currently learning VUE 3; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [contact@arslanameer.com](contact@arslanameer.com);
+- 📫 How to reach me: [contact@arslanameer.com](contact@arslanameer.com) | [arslan.ameer@hotmail.com](arslan.ameer@hotmail.com);
 - 📝 My [Portfolio](https://www.arslanameer.com/)
 
 **Languages and Tools:**  
