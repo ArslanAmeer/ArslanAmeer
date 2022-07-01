@@ -8,10 +8,13 @@
   <img align="left" alt="Arslan's | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />
 </a>
 <a href="https://www.linkedin.com/in/arslanameer/">
-  <img align="left" alt="Arslan's LinkdeIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
+  <img align="left" alt="Arslan's LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
 <a href="https://www.showwcase.com/arslanameer">
   <img align="left" alt="Arslan's Showwcase" width="22px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/jx4jznjkforzn6euhepo" />
+</a>
+<a href="https://profile.codersrank.io/user/arslanameer">
+  <img align="left" alt="Arslan's Coder's Rank" width="22px" src="https://seeklogo.com/images/C/codersrank-logo-31F4344B52-seeklogo.com.png" />
 </a>
 <a href="https://stackoverflow.com/users/9195105/arslan-ameer">
   <img align="left" alt="Arslan's Stack Overflow" width="18px" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" />
