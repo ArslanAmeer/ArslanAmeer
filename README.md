@@ -99,7 +99,7 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Engineer 🚀 from Pakistan,
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C600%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
 **🐱 My GitHub Data** 
 
@@ -180,7 +180,7 @@ Python                   6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ArslanAmeer/ArslanAmeer/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/07/2022 13:56:30 UTC
+ Last Updated on 28/07/2022 14:15:47 UTC
 <!--END_SECTION:waka-->
 
 <!-- 🚧 **My Todoist Stats:** -->
