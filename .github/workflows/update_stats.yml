@@ -23,7 +23,7 @@ jobs:
           SHOW_LOC_CHART: "TRUE"
           SHOW_LINES_OF_CODE: "TRUE"
           SHOW_LANGUAGE_PER_REPO: "TRUE"
-          COMMIT_BY_ME: "TRUE"
+          COMMIT_BY_ME: "FALSE"
           SHOW_TOTAL_CODE_TIME: "TRUE"
           SHOW_COMMIT: "TRUE"
           SHOW_DAYS_OF_WEEK: "TRUE"
