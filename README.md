@@ -103,18 +103,6 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Engineer 🚀 from Pakistan,
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 1,067 Contributions in the Year 2022
- > 
-> 📦 2.7 MB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 57 Public Repositories 
- > 
-> 🔑 64 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -171,13 +159,6 @@ Python                   6 repos             █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/ArslanAmeer/ArslanAmeer/master/charts/bar_graph.png) 
-
-
- Last Updated on 01/08/2022 09:02:43 UTC
 <!--END_SECTION:waka-->
 
 <!-- 🚧 **My Todoist Stats:** -->
@@ -187,7 +168,7 @@ Python                   6 repos             █░░░░░░░░░░�
   <br>
    
    <div>
-<a href="https://github.com/arslanameer"><img src="https://github-readme-stats.arslanameer.vercel.app//api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&hide_border=true" width="350" align="right" /></a>
+<a href="https://github.com/arslanameer"><img src="https://github-readme-stats.vercel.app/api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&hide_border=true" width="350" align="right" /></a>
 <a href="https://github.com/arslanameer"><img src="https://arslan-github-streaks.herokuapp.com?user=arslanameer&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="350" /></a>
 </div>
 <!--   [![Arslan GitHub Streak](https://arslan-github-streaks.herokuapp.com?user=arslanameer&theme=dark&date_format=M%20j%5B%2C%20Y%5D)]() -->
