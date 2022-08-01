@@ -15,7 +15,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          UPDATED_DATE_FORMAt: "%B %d, %Y"
+          UPDATED_DATE_FORMAT: "%B %d, %Y"
           SHOW_OS: "True"
           SHOW_UPDATED_DATE: "True"
           SHOW_TIMEZONE: "True"
