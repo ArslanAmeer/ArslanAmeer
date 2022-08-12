@@ -20,7 +20,7 @@
   <img align="left" alt="Arslan's Stack Overflow" width="18px" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" />
 </a>
 <a href="https://www.instagram.com/lk2712/">
-  <img align="left" alt="Arslan's Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />
+  <img align="left" alt="Arslan's Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" />
 </a>
 <a href="https://www.facebook.com/arslanameer2712">
   <img align="left" alt="Arslan's Facebook" height="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg" />
