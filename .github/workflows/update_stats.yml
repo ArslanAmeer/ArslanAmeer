@@ -26,8 +26,6 @@ jobs:
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "True"
-          COMMIT_BY_ME: "True"
-          COMMIT_MESSAGE: "♻️ Update: Daily stats update"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_PROJECTS: "False"
           SHOW_SHORT_INFO: "False"
