@@ -97,17 +97,17 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Engineer 🚀 from Pakistan,
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C810%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C821%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    72 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.3% 
+🌞 Morning    73 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.38% 
 🌆 Daytime    478 commits    ████████░░░░░░░░░░░░░░░░░   35.2% 
 🌃 Evening    460 commits    ████████░░░░░░░░░░░░░░░░░   33.87% 
-🌙 Night      348 commits    ██████░░░░░░░░░░░░░░░░░░░   25.63%
+🌙 Night      347 commits    ██████░░░░░░░░░░░░░░░░░░░   25.55%
 
 ```
 📅 **I'm Most Productive on Monday** 
