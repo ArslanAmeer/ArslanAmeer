@@ -97,7 +97,7 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Engineer 🚀 from Pakistan,
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C013%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C015%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -110,14 +110,14 @@ Hi, I'm [Arslan](www.arslanameer.com), a Full Stack Engineer 🚀 from Pakistan,
 🌙 Night      352 commits    ████████░░░░░░░░░░░░░░░░░   33.43%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday       186 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.66% 
-Tuesday      183 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.38% 
+Tuesday      188 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.85% 
 Wednesday    167 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.86% 
-Thursday     131 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
-Friday       162 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Thursday     130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
+Friday       158 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
 Saturday     89 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.45% 
 Sunday       135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.82%
 
