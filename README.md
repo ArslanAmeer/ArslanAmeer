@@ -171,7 +171,7 @@ Python                   6 repos             █░░░░░░░░░░�
    
    <div>
 <a href="https://github.com/arslanameer"><img src="https://github-readme-stats.vercel.app/api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&hide_border=true" width="350" align="right" /></a>
-<a href="https://github.com/arslanameer"><img src="https://arslan-github-streaks.herokuapp.com?user=arslanameer&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="350" /></a>
+<a href="https://github.com/arslanameer"><img src="https://streak-stats.demolab.com?user=arslanameer&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="350" /></a>
 </div>
 <!--   [![Arslan GitHub Streak](https://arslan-github-streaks.herokuapp.com?user=arslanameer&theme=dark&date_format=M%20j%5B%2C%20Y%5D)]() -->
 
