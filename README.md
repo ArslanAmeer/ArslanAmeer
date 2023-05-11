@@ -26,7 +26,7 @@
   <img align="left" alt="Arslan's Facebook" height="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ArslanAmeer.ArslanAmeer)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=ArslanAmeer&countColor=%23d9e3f0&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=ArslanAmeer)
 
 <br />
 
