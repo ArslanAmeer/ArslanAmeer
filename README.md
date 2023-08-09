@@ -98,65 +98,6 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C597%20hrs%2013%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.8%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1062 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-🌆 Daytime                6592 commits        █████████░░░░░░░░░░░░░░░░   36.19 % 
-🌃 Evening                5927 commits        ████████░░░░░░░░░░░░░░░░░   32.54 % 
-🌙 Night                  4632 commits        ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   3496 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-Tuesday                  2910 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Wednesday                2711 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Thursday                 3297 commits        █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Friday                   2932 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Saturday                 910 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Sunday                   1957 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Karachi
-
-💬 Programming Languages: 
-TypeScript               26 hrs 26 mins      ██████████████████████░░░   86.31 % 
-HTML                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-JSON                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-JavaScript               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-
-🔥 Editors: 
-VS Code                  21 hrs 25 mins      █████████████████░░░░░░░░   69.94 % 
-WebStorm                 9 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   30.06 % 
-
-💻 Operating System: 
-Windows                  30 hrs 37 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     64 repos            ██████████░░░░░░░░░░░░░░░   39.51 % 
-TypeScript               29 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-JavaScript               20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Python                   10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-SCSS                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-```
-
-
-
-
- Last Updated on August 09, 2023 UTC
 <!--END_SECTION:waka-->
 
 <!-- 🚧 **My Todoist Stats:** -->
@@ -166,8 +107,8 @@ SCSS                     3 repos             ░░░░░░░░░░░�
   <br>
    
    <div>
-<a href="https://github.com/arslanameer"><img src="https://github-readme-stats.vercel.app/api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&hide_border=true" width="350" align="right" /></a>
-<a href="https://github.com/arslanameer"><img src="https://streak-stats.demolab.com?user=arslanameer&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="350" /></a>
+<a href="https:arslanameer.com"><img src="https://github-readme-stats.vercel.app/api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&hide_border=true" width="350" align="right" /></a>
+<a href="https:arslanameer.com"><img src="https://streak-stats.demolab.com?user=arslanameer&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="350" /></a>
 </div>
 <!--   [![Arslan GitHub Streak](https://arslan-github-streaks.herokuapp.com?user=arslanameer&theme=dark&date_format=M%20j%5B%2C%20Y%5D)]() -->
 
