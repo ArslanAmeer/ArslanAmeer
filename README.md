@@ -40,7 +40,8 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning NestJs & Loopback4; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [contact@arslanameer.com](contact@arslanameer.com) | [arslan.ameer@hotmail.com](arslan.ameer@hotmail.com);
+- 📫 How to reach me: [contact@arslanameer.com](contact@arslanameer.com)
+- 🧞 Hire Me on: [Upwork](https://www.upwork.com/freelancers/~01aefe84e469a7841a) | [Fiverr](https://www.fiverr.com/arslanameer)
 - 📝 My [Portfolio](https://www.arslanameer.com/)
 
 **Languages and Tools:**  
@@ -98,65 +99,6 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C614%20hrs%207%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.9%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1063 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-🌆 Daytime                6638 commits        █████████░░░░░░░░░░░░░░░░   36.30 % 
-🌃 Evening                5956 commits        ████████░░░░░░░░░░░░░░░░░   32.57 % 
-🌙 Night                  4632 commits        ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   3507 commits        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Tuesday                  2935 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Wednesday                2726 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Thursday                 3312 commits        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Friday                   2942 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Saturday                 910 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-Sunday                   1957 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Karachi
-
-💬 Programming Languages: 
-TypeScript               25 hrs 19 mins      █████████████████████░░░░   83.05 % 
-HTML                     2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-JSON                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-SCSS                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-
-🔥 Editors: 
-VS Code                  16 hrs 55 mins      ██████████████░░░░░░░░░░░   55.49 % 
-WebStorm                 13 hrs 34 mins      ███████████░░░░░░░░░░░░░░   44.51 % 
-
-💻 Operating System: 
-Windows                  30 hrs 29 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     64 repos            ██████████░░░░░░░░░░░░░░░   39.75 % 
-TypeScript               29 repos            █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-JavaScript               20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Python                   9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-SCSS                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-```
-
-
-
-
- Last Updated on August 11, 2023 UTC
 <!--END_SECTION:waka-->
 
 <!-- 🚧 **My Todoist Stats:** -->
