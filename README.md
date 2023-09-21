@@ -26,19 +26,18 @@
   <img align="left" alt="Arslan's Facebook" height="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg" />
 </a>
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=ArslanAmeer&countColor=%23d9e3f0&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=ArslanAmeer)
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=ArslanAmeer&label=Visits&labelColor=%23003140&countColor=%2300b2df&style=flat&labelStyle=none)
 <br />
 
-Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from Pakistan, currently, I'm a full time *Sr. Software Engineer*🧑🏻‍💻 [@Forenax Technologies <img src="https://avatars.githubusercontent.com/u/73475809?s=200&v=4" alt="Forenax-Technologies" width="16" height="16" />](https://github.com/Synares),  *Project Collaborator*👷🏻‍♂️  [@ $STORE <img src="https://avatars.githubusercontent.com/u/28670019?s=200&v=4" alt="Forenax-Technologies" width="16" height="16" />](https://github.com/storecloudproject),  [@Tailorie <img src="https://avatars.githubusercontent.com/u/64091180?s=200&v=4" alt="tailorie" width="16" height="16" />](https://github.com/Tailorie), [@ClearFunds <img src="https://avatars.githubusercontent.com/u/72493713?s=200&v=4" alt="clear-funds" width="16" height="16" />](https://github.com/Clear-Funds), [@GotLaw <img src="https://avatars.githubusercontent.com/u/17888777?s=200&v=4" alt="got-law" width="16" height="16" />](https://github.com/GotLaw),[@TimeKeepers <img src="https://avatars.githubusercontent.com/u/8051294?s=200&v=4" alt="time-keepers" width="16" height="16">](https://github.com/TierOneTimekeepers),[@TravelIndustrySolutions <img src="https://avatars.githubusercontent.com/u/122027756?s=200&v=4" alt="travel-industry-solutions" width="16" height="16">](https://github.com/Travel-Industry-Solutions).
-*Mentor*🕵🏻 [@Crossblanc <img src="https://avatars.githubusercontent.com/u/77790485?s=200&v=4" alt="Crossblanc" width="16" height="16" />](https://github.com/crossblanc), [@GeekCo <img src="https://avatars.githubusercontent.com/u/70113728?s=200&v=4" alt="GeekCo" width="16" height="16" />](https://github.com/Geeky-Coder-Co) and [@BizHub <img src="https://avatars.githubusercontent.com/u/67561117?s=200&v=4" alt="BizHub" width="16" height="16" />](https://github.com/Bizhub-Guyana), Freelancer 🥷🏼 @ <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="arslanameer fiverr" width="16" height="16" /> <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="arslanameer upwork" width="16" height="16" /> and an Open Source contributer. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from Pakistan, currently, I'm a full time *Sr. Software Engineer*🧑🏻‍💻 [@Forenax Technologies <img src="https://avatars.githubusercontent.com/u/73475809?s=200&v=4" alt="Forenax-Technologies" width="16" height="16" />](https://github.com/Synares),  *Project Collaborator*👷🏻‍♂️  [@ SMIELS <img src="https://uploads-ssl.webflow.com/6103f89469b8fb6b7732fae6/610417bbfecae2dd26f35c17_favicon-32x32.png" alt="SMIELS @ FORENAX" width="16" height="16" />](https://www.smiels.com/), [@ $STORE <img src="https://avatars.githubusercontent.com/u/28670019?s=200&v=4" alt="STORE @ Forenax-Technologies" width="16" height="16" />](https://github.com/storecloudproject),  [@Tailorie <img src="https://avatars.githubusercontent.com/u/64091180?s=200&v=4" alt="tailorie" width="16" height="16" />](https://github.com/Tailorie), [@ClearFunds <img src="https://avatars.githubusercontent.com/u/72493713?s=200&v=4" alt="clear-funds" width="16" height="16" />](https://github.com/Clear-Funds), [@GotLaw <img src="https://avatars.githubusercontent.com/u/17888777?s=200&v=4" alt="got-law" width="16" height="16" />](https://github.com/GotLaw),[@TimeKeepers <img src="https://avatars.githubusercontent.com/u/8051294?s=200&v=4" alt="time-keepers" width="16" height="16">](https://github.com/TierOneTimekeepers),[@TravelIndustrySolutions <img src="https://avatars.githubusercontent.com/u/122027756?s=200&v=4" alt="travel-industry-solutions" width="16" height="16">](https://github.com/Travel-Industry-Solutions).
+*Mentor*🕵🏻 [@Crossblanc <img src="https://avatars.githubusercontent.com/u/77790485?s=200&v=4" alt="Crossblanc" width="16" height="16" />](https://github.com/crossblanc), [@GeekCo <img src="https://avatars.githubusercontent.com/u/70113728?s=200&v=4" alt="GeekCo" width="16" height="16" />](https://github.com/Geeky-Coder-Co) and [@BizHub <img src="https://avatars.githubusercontent.com/u/67561117?s=200&v=4" alt="BizHub" width="16" height="16" />](https://github.com/Bizhub-Guyana), Freelancer 🥷🏼 @ [<img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="arslanameer fiverr" width="16" height="16" />](https://www.fiverr.com/arslanameer) [<img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="arslanameer upwork" width="16" height="16" />](https://www.upwork.com/freelancers/~01aefe84e469a7841a) and an Open Source contributer. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/ArslanAmeer/ArslanAmeer/blob/master/assets/arslan-coding.gif" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning NestJs & Loopback4; 
+- 🌱 I’m currently learning Ionic, NestJs & Loopback4; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [contact@arslanameer.com](contact@arslanameer.com)
 - 🧞 Hire Me on: [Upwork](https://www.upwork.com/freelancers/~01aefe84e469a7841a) | [Fiverr](https://www.fiverr.com/arslanameer)
@@ -51,17 +50,20 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vue" width="23" height="23" />
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwind" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/less.svg" alt="less" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://www.netclipart.com/pp/m/137-1372012_net-logos-download-logo-microsoft-net.png" alt=".NET" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET Core" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="25" width="25">
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="firebase" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="postgreSQL" width="25" height="25" />
 <img src="https://banner2.cleanpng.com/20180817/csy/kisspng-microsoft-sql-server-microsoft-corporation-sql-ser-5b7663e3cd2565.5939753015344854758403.jpg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="25" height="25" />
