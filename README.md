@@ -40,7 +40,7 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 - 🌱 I’m currently learning Ionic, NestJs & Loopback4; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [contact@arslanameer.com](contact@arslanameer.com)
-- 🧞 Hire Me on: [Upwork](https://www.upwork.com/freelancers/~01aefe84e469a7841a) | [Fiverr](https://www.fiverr.com/arslanameer)
+- 🧞 Hire Me on: [Upwork](https://www.upwork.com/freelancers/arslanameer) | [Fiverr](https://www.fiverr.com/arslanameer)
 - 📝 My [Portfolio](https://www.arslanameer.com/)
 
 **Languages and Tools:**  
