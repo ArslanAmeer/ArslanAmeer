@@ -11,7 +11,7 @@
   <img align="left" alt="Arslan's LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
 <a href="https://www.showwcase.com/arslanameer">
-  <img align="left" alt="Arslan's Showwcase" width="22px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/jx4jznjkforzn6euhepo" />
+  <img align="left" alt="Arslan's Showwcase" width="22px" src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/jx4jznjkforzn6euhepo" />
 </a>
 <a href="https://profile.codersrank.io/user/arslanameer">
   <img align="left" alt="Arslan's Coder's Rank" width="22px" src="https://seeklogo.com/images/C/codersrank-logo-31F4344B52-seeklogo.com.png" />
