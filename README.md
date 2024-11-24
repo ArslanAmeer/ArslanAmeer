@@ -101,7 +101,7 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C190%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C190%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.6%20million%20lines%20of%20code-blue)
 
