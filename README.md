@@ -76,9 +76,10 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="25" height="25" >
+<img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" width="25" height="25" >
 <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-6.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="25" height="25" >
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cs6.svg" width="25" height="25" >
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-experience-design-1.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/invision.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="25" height="25" >
   <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="25" height="25" >
