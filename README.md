@@ -14,7 +14,7 @@
   <img align="left" alt="Arslan's Showwcase" width="22px" src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/jx4jznjkforzn6euhepo" />
 </a>
 <a href="https://profile.codersrank.io/user/arslanameer">
-  <img align="left" alt="Arslan's Coder's Rank" width="22px" src="https://seeklogo.com/images/C/codersrank-logo-31F4344B52-seeklogo.com.png" />
+  <img align="left" alt="Arslan's Coder's Rank" width="22px" src="https://avatars.githubusercontent.com/u/48912960?s=280&v=4" />
 </a>
 <a href="https://stackoverflow.com/users/9195105/arslan-ameer">
   <img align="left" alt="Arslan's Stack Overflow" width="18px" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" />
@@ -40,7 +40,7 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 - 🌱 I’m currently learning Ionic, NestJs & Loopback4; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [contact@arslanameer.com](contact@arslanameer.com)
-- 🧞 Hire Me on: [Upwork](https://www.upwork.com/freelancers/arslanameer) | [Fiverr](https://www.fiverr.com/arslanameer)
+- 🧞 Hire Me on: [Upwork](https://www.upwork.com/freelancers/arslanameer)
 - 📝 My [Portfolio](https://www.arslanameer.com/)
 
 **Languages and Tools:**  
