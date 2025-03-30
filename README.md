@@ -171,7 +171,7 @@ C#                       7 repos             █░░░░░░░░░░�
    
    <div>
 <a href="https://arslanameer.com" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&hide_border=true" width="350" align="right" /></a>
-<a href="https://arslanameer.com" target="_blank"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=gylansalih&theme=dark&hide_border=true" width="350" /></a>
+<a href="https://arslanameer.com" target="_blank"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=ArslanAmeer&theme=dark&hide_border=true" width="350" /></a>
 </div>
 <!--   [![Arslan GitHub Streak](https://arslan-github-streaks.herokuapp.com?user=arslanameer&theme=dark&date_format=M%20j%5B%2C%20Y%5D)]() -->
 
