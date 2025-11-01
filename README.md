@@ -102,8 +102,6 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C095%20hrs%2018%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.5%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -133,9 +131,10 @@ Sunday                   3144 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               1 hr 30 mins        ███████████████████░░░░░░   74.44 % 
-HTML                     29 mins             ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+TypeScript               1 hr 30 mins        ███████████████████░░░░░░   74.33 % 
+HTML                     29 mins             ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
 JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
 WebStorm                 2 hrs               █████████████████████████   98.45 % 
@@ -158,7 +157,7 @@ C#                       7 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on October 31, 2025 UTC
+ Last Updated on November 01, 2025 UTC
 <!--END_SECTION:waka-->
 
 <!-- 🚧 **My Todoist Stats:** -->
