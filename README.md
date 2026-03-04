@@ -102,25 +102,25 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C267%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C270%20hrs%2017%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.69%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.70%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                1282 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-🌆 Daytime                9253 commits        ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-🌃 Evening                12454 commits       █████████░░░░░░░░░░░░░░░░   36.65 % 
-🌙 Night                  10996 commits       ████████░░░░░░░░░░░░░░░░░   32.36 % 
+🌆 Daytime                9253 commits        ███████░░░░░░░░░░░░░░░░░░   27.22 % 
+🌃 Evening                12454 commits       █████████░░░░░░░░░░░░░░░░   36.64 % 
+🌙 Night                  11000 commits       ████████░░░░░░░░░░░░░░░░░   32.36 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday                   5530 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
 Tuesday                  5411 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Wednesday                5002 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Thursday                 5667 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Wednesday                5006 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Thursday                 5667 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 Friday                   5775 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
 Saturday                 2919 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
 Sunday                   3681 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
