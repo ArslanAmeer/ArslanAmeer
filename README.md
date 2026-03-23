@@ -102,7 +102,7 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C284%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C284%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.62%20million%20lines%20of%20code-blue?style=flat)
 
@@ -111,7 +111,7 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 ```text
 🌞 Morning                1292 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 🌆 Daytime                10162 commits       ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-🌃 Evening                14649 commits       █████████░░░░░░░░░░░░░░░░   37.66 % 
+🌃 Evening                14653 commits       █████████░░░░░░░░░░░░░░░░   37.66 % 
 🌙 Night                  12799 commits       ████████░░░░░░░░░░░░░░░░░   32.90 % 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -119,10 +119,10 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 ```text
 Monday                   6158 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
 Tuesday                  6136 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Wednesday                5884 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Thursday                 6574 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Friday                   6612 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Saturday                 3410 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Wednesday                5884 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Thursday                 6578 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Friday                   6612 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Saturday                 3410 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 Sunday                   4128 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
 ```
 
