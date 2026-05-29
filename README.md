@@ -102,7 +102,51 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 <hr/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C388%20hrs%2022%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.90%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1338 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+🌆 Daytime                9685 commits        ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+🌃 Evening                13502 commits       █████████░░░░░░░░░░░░░░░░   37.06 % 
+🌙 Night                  11908 commits       ████████░░░░░░░░░░░░░░░░░   32.68 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   5594 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Tuesday                  5910 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Wednesday                5512 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Thursday                 6146 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Friday                   6090 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Saturday                 3270 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Sunday                   3911 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Karachi
+
+💬 Programming Languages: 
+JavaScript               5 hrs 24 mins       █████████████░░░░░░░░░░░░   50.02 % 
+TypeScript               5 hrs 8 mins        ████████████░░░░░░░░░░░░░   47.53 % 
+HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+
+🔥 Editors: 
+VS Code                  8 hrs 20 mins       ███████████████████░░░░░░   77.04 % 
+WebStorm                 2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+
+💻 Operating System: 
+Windows                  9 hrs 56 mins       ███████████████████████░░   91.80 % 
+Mac                      53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+```
 
 **I Mostly Code in HTML** 
 
