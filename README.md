@@ -102,26 +102,26 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C478%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C485%20hrs%2040%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.25%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.26%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                1376 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-🌆 Daytime                10355 commits       ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-🌃 Evening                14862 commits       █████████░░░░░░░░░░░░░░░░   37.68 % 
+🌆 Daytime                10355 commits       ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+🌃 Evening                14870 commits       █████████░░░░░░░░░░░░░░░░   37.70 % 
 🌙 Night                  12846 commits       ████████░░░░░░░░░░░░░░░░░   32.57 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   5899 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Tuesday                  6429 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Wednesday                6127 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Monday                   5901 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Tuesday                  6433 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Wednesday                6127 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
 Thursday                 6772 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Friday                   6459 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Friday                   6461 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
 Saturday                 3585 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 Sunday                   4168 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
 ```
