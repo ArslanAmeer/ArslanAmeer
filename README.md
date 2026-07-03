@@ -102,7 +102,7 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C495%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C500%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.54%20million%20lines%20of%20code-blue?style=flat)
 
@@ -110,7 +110,7 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 
 ```text
 🌞 Morning                989 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-🌆 Daytime                7762 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+🌆 Daytime                7764 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
 🌃 Evening                17154 commits       ██████████░░░░░░░░░░░░░░░   40.21 % 
 🌙 Night                  16752 commits       ██████████░░░░░░░░░░░░░░░   39.27 % 
 ```
@@ -118,10 +118,10 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 
 ```text
 Monday                   5577 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Tuesday                  6674 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Tuesday                  6674 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
 Wednesday                6489 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
 Thursday                 6712 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Friday                   7107 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Friday                   7109 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
 Saturday                 4636 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
 Sunday                   5462 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
 ```
