@@ -97,7 +97,7 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 
 #### <img align="left" alt="Arslan's Spotify" width="75px" src="https://cdn.worldvectorlogo.com/logos/spotify-logo-with-text-1.svg"/> Now Playing 🎧 
 
-[![Spotify](https://spotify-play.arslanameer.vercel.app/api/spotify)](https://open.spotify.com/user/mqjqw4pv2745llonloqsqlijc?si=wlRAdEdEQ5aPabN4e_KJXQ)
+[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=mqjqw4pv2745llonloqsqlijc&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=mqjqw4pv2745llonloqsqlijc&redirect=true)
 
 
 <hr/>
