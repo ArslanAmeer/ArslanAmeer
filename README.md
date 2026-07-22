@@ -47,7 +47,8 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 
 
 <p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="25" height="25" />
+<img src="https://brandlogos.net/wp-content/uploads/2025/04/angular_icon-logo_brandlogos.net_jn7wi-512x542.png" alt="angular" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/960px-React-icon.svg.png" alt="angular" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vue" width="23" height="23" />
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwind" width="25" height="25" />
@@ -64,7 +65,7 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="firebase" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="postgreSQL" width="25" height="25" />
-<img src="https://banner2.cleanpng.com/20180817/csy/kisspng-microsoft-sql-server-microsoft-corporation-sql-ser-5b7663e3cd2565.5939753015344854758403.jpg" alt="mysql" width="25" height="25" />
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="25" height="25" >
@@ -172,7 +173,7 @@ C#                       7 repos             █░░░░░░░░░░�
   <br>
    
    <div>
-<a href="https://arslanameer.com" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&hide_border=true" width="350" align="right" /></a>
+<a href="https://arslanameer.com" target="_blank"><img src="https://github-stats-extended.vercel.app/api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&hide_border=true" width="350" align="right" /></a>
 <a href="https://arslanameer.com" target="_blank"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=ArslanAmeer&theme=dark&hide_border=true" width="350" /></a>
 </div>
 <!--   [![Arslan GitHub Streak](https://arslan-github-streaks.herokuapp.com?user=arslanameer&theme=dark&date_format=M%20j%5B%2C%20Y%5D)]() -->
