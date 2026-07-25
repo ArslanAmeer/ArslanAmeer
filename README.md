@@ -102,68 +102,22 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C570%20hrs%2017%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.61%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1366 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-🌆 Daytime                11436 commits       ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-🌃 Evening                19236 commits       ██████████░░░░░░░░░░░░░░░   39.12 % 
-🌙 Night                  17138 commits       █████████░░░░░░░░░░░░░░░░   34.85 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   7153 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Tuesday                  7732 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Wednesday                7603 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Thursday                 8234 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Friday                   8340 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Saturday                 4778 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Sunday                   5336 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Karachi
-
-💬 Programming Languages: 
-TypeScript               10 hrs 40 mins      ████████████░░░░░░░░░░░░░   47.19 % 
-JavaScript               7 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   33.69 % 
-Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-HTML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-
-🔥 Editors: 
-WebStorm                 13 hrs 9 mins       ███████████████░░░░░░░░░░   58.21 % 
-Claude Code              9 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   40.82 % 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Antigravity IDE          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-💻 Operating System: 
-Windows                  18 hrs 38 mins      █████████████████████░░░░   82.39 % 
-Mac                      3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.62%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     66 repos            █████████░░░░░░░░░░░░░░░░   34.74 % 
-TypeScript               42 repos            ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-JavaScript               32 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-CSS                      25 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-C#                       7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+TypeScript               42 repos            █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+JavaScript               32 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+CSS                      25 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+C#                       7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
 
 
 
- Last Updated on July 24, 2026 UTC
+ Last Updated on July 25, 2026 UTC
 <!--END_SECTION:waka-->
 
 <!-- 🚧 **My Todoist Stats:** -->
