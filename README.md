@@ -102,28 +102,28 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C574%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C572%20hrs%2031%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.62%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.71%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1366 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-🌆 Daytime                11436 commits       ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-🌃 Evening                19237 commits       ██████████░░░░░░░░░░░░░░░   39.12 % 
-🌙 Night                  17140 commits       █████████░░░░░░░░░░░░░░░░   34.85 % 
+🌞 Morning                1366 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+🌆 Daytime                11450 commits       ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+🌃 Evening                19337 commits       ██████████░░░░░░░░░░░░░░░   39.13 % 
+🌙 Night                  17265 commits       █████████░░░░░░░░░░░░░░░░   34.94 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   7153 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Tuesday                  7732 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Wednesday                7603 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Thursday                 8234 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Friday                   8341 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Saturday                 4780 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Sunday                   5336 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Monday                   7200 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Tuesday                  7784 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Wednesday                7635 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Thursday                 8243 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Friday                   8371 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Saturday                 4796 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Sunday                   5389 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
 ```
 
 
@@ -133,20 +133,21 @@ Sunday                   5336 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               9 hrs 38 mins       ███████████░░░░░░░░░░░░░░   42.16 % 
-JavaScript               8 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   36.47 % 
-Markdown                 1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-HTML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+TypeScript               9 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   39.39 % 
+JavaScript               8 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Markdown                 2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+XML                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-WebStorm                 12 hrs 6 mins       █████████████░░░░░░░░░░░░   52.96 % 
-Claude Code              10 hrs 17 mins      ███████████░░░░░░░░░░░░░░   44.99 % 
-VS Code                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Claude Code              11 hrs 56 mins      ████████████░░░░░░░░░░░░░   48.94 % 
+WebStorm                 11 hrs 37 mins      ████████████░░░░░░░░░░░░░   47.65 % 
+VS Code                  28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Antigravity Desktop      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 💻 Operating System: 
-Windows                  17 hrs 22 mins      ███████████████████░░░░░░   76.00 % 
-Mac                      5 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+Windows                  18 hrs 18 mins      ███████████████████░░░░░░   75.04 % 
+Mac                      6 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -162,7 +163,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on July 25, 2026 UTC
+ Last Updated on July 26, 2026 UTC
 <!--END_SECTION:waka-->
 
 <!-- 🚧 **My Todoist Stats:** -->
