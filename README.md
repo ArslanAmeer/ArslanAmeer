@@ -112,16 +112,16 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 
 ```text
 🌞 Morning                1350 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-🌆 Daytime                11998 commits       ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-🌃 Evening                21193 commits       ██████████░░░░░░░░░░░░░░░   39.72 % 
-🌙 Night                  18818 commits       █████████░░░░░░░░░░░░░░░░   35.27 % 
+🌆 Daytime                11998 commits       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+🌃 Evening                21197 commits       ██████████░░░░░░░░░░░░░░░   39.72 % 
+🌙 Night                  18818 commits       █████████░░░░░░░░░░░░░░░░   35.26 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday                   7701 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
 Tuesday                  8321 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Wednesday                8242 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Wednesday                8246 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
 Thursday                 8894 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 Friday                   9131 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
 Saturday                 5217 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
@@ -135,42 +135,42 @@ Sunday                   5853 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Markdown                 10 hrs 4 mins       ████████░░░░░░░░░░░░░░░░░   30.06 % 
-JavaScript               7 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-TypeScript               4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-JSON                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Bash                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Markdown                 8 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+JavaScript               5 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+TypeScript               4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+JSON                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Text                     2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 55 mins      ████████████████░░░░░░░░░   62.38 % 
-WebStorm                 12 hrs 37 mins      █████████░░░░░░░░░░░░░░░░   37.62 % 
+Claude Code              17 hrs 57 mins      ███████████████░░░░░░░░░░   58.21 % 
+WebStorm                 12 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   41.79 % 
 
 💻 Operating System: 
-Windows                  28 hrs 7 mins       █████████████████████░░░░   83.85 % 
-Mac                      5 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Windows                  26 hrs 14 mins      █████████████████████░░░░   85.06 % 
+Mac                      4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 46 mins (79.84%)
+⏱ AI Coding Time: 23 hrs 30 mins (76.21%)
 
-✍️ 17,000 lines written by AI, 168 lines written by hand (99.02% AI-written)
+✍️ 15,431 lines written by AI, 146 lines written by hand (99.06% AI-written)
 
-🔤 560,460,751 Input Tokens, 2,234,108 Output Tokens
+🔤 367,112,766 Input Tokens, 1,840,478 Output Tokens
 
-💵 $3019.62 Estimated AI Cost This Week
+💵 $2102.06 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 231 AI Prompts
+🧠 46 AI Sessions, 210 AI Prompts
 
-Opus                     18,161 lines        █████████████████████████   100.00 % 
+Opus                     16,416 lines        █████████████████████████   100.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.02% of written lines came from AI
-📚 Verbose Prompter — average 1,549 characters per prompt
+🤖 AI-Driven — 99.06% of written lines came from AI
+📄 Detailed Prompter — average 1,497 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.94% of changed lines were hand-edited
+🚀 High AI Trust — 4.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -186,7 +186,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on August 12, 2026 UTC
+ Last Updated on August 13, 2026 UTC
 <!--END_SECTION:waka-->
 
 <!-- 🚧 **My Todoist Stats:** -->
