@@ -106,26 +106,26 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%2052%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.21%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.50%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1322 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-🌆 Daytime                11698 commits       ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-🌃 Evening                20277 commits       ██████████░░░░░░░░░░░░░░░   39.51 % 
-🌙 Night                  18024 commits       █████████░░░░░░░░░░░░░░░░   35.12 % 
+🌞 Morning                1350 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+🌆 Daytime                12002 commits       ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+🌃 Evening                21207 commits       ██████████░░░░░░░░░░░░░░░   39.73 % 
+🌙 Night                  18818 commits       █████████░░░░░░░░░░░░░░░░   35.25 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   7533 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Tuesday                  8001 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Wednesday                7890 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Thursday                 8522 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Friday                   8813 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Saturday                 4939 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Sunday                   5623 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Monday                   7701 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Tuesday                  8321 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Wednesday                8258 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Thursday                 8896 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Friday                   9131 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Saturday                 5217 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Sunday                   5853 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
 ```
 
 
@@ -135,42 +135,41 @@ Sunday                   5623 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Markdown                 8 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-JavaScript               5 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-TypeScript               4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-JSON                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Text                     2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Markdown                 6 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+JavaScript               4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+TypeScript               3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+JSON                     2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Text                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 57 mins      ███████████████░░░░░░░░░░   58.21 % 
-WebStorm                 12 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   41.79 % 
+Claude Code              14 hrs 51 mins      ██████████████░░░░░░░░░░░   55.74 % 
+WebStorm                 11 hrs 48 mins      ███████████░░░░░░░░░░░░░░   44.26 % 
 
 💻 Operating System: 
-Windows                  26 hrs 14 mins      █████████████████████░░░░   85.06 % 
-Mac                      4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Windows                  22 hrs 19 mins      █████████████████████░░░░   83.72 % 
+Mac                      4 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 30 mins (76.21%)
+⏱ AI Coding Time: 19 hrs 9 mins (71.84%)
 
-✍️ 15,431 lines written by AI, 146 lines written by hand (99.06% AI-written)
+✍️ 10,557 lines written by AI, 129 lines written by hand (98.79% AI-written)
 
-🔤 367,112,766 Input Tokens, 1,840,478 Output Tokens
+🔤 18,630,371 Input Tokens, 1,011,697 Output Tokens
 
-💵 $2102.06 Estimated AI Cost This Week
+💵 $363.91 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 210 AI Prompts
+🧠 43 AI Sessions, 190 AI Prompts
 
-Opus                     16,416 lines        █████████████████████████   100.00 % 
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     11,090 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.06% of written lines came from AI
-📄 Detailed Prompter — average 1,497 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 4.09% of changed lines were hand-edited
+🤖 AI-Driven — 98.79% of written lines came from AI
+📚 Verbose Prompter — average 1,528 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 5.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -186,7 +185,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on August 13, 2026 UTC
+ Last Updated on August 14, 2026 UTC
 <!--END_SECTION:waka-->
 
 <!-- 🚧 **My Todoist Stats:** -->
