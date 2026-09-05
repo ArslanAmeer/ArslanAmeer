@@ -102,30 +102,30 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C728%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C729%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-292%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-293%20hrs%2032%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.72%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.50%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1060 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-🌆 Daytime                7583 commits        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-🌃 Evening                15710 commits       ██████████░░░░░░░░░░░░░░░   39.14 % 
-🌙 Night                  15787 commits       ██████████░░░░░░░░░░░░░░░   39.33 % 
+🌞 Morning                1418 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+🌆 Daytime                11218 commits       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+🌃 Evening                18265 commits       ██████████░░░░░░░░░░░░░░░   38.57 % 
+🌙 Night                  16453 commits       █████████░░░░░░░░░░░░░░░░   34.74 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   5284 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Tuesday                  6346 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Wednesday                6016 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Thursday                 6306 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Friday                   6561 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Saturday                 4501 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Sunday                   5126 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Monday                   6912 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Tuesday                  7488 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Wednesday                7345 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Thursday                 7966 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Friday                   7894 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Saturday                 4616 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Sunday                   5133 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
 ```
 
 
