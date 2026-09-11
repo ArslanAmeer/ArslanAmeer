@@ -102,30 +102,30 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C753%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C759%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-315%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-323%20hrs%2014%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.46%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.08%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1426 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-🌆 Daytime                12420 commits       ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-🌃 Evening                22053 commits       ██████████░░░░░░░░░░░░░░░   39.48 % 
-🌙 Night                  19955 commits       █████████░░░░░░░░░░░░░░░░   35.73 % 
+🌞 Morning                1438 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+🌆 Daytime                13592 commits       █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+🌃 Evening                25868 commits       ██████████░░░░░░░░░░░░░░░   40.08 % 
+🌙 Night                  23641 commits       █████████░░░░░░░░░░░░░░░░   36.63 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   7986 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Tuesday                  8690 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Wednesday                8633 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Thursday                 9470 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Friday                   9436 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Saturday                 5568 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Sunday                   6071 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Monday                   9117 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Tuesday                  9910 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Wednesday                10014 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Thursday                 10853 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Friday                   11046 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Saturday                 6564 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Sunday                   7035 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
 ```
 
 
@@ -179,10 +179,10 @@ Fable                    4,951 lines         ██████░░░░░�
 **I Mostly Code in HTML** 
 
 ```text
-TypeScript               45 repos            ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-JavaScript               32 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-CSS                      25 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-C#                       7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+TypeScript               44 repos            ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+JavaScript               32 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+CSS                      25 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+C#                       7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
