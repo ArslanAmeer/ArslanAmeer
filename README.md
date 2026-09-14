@@ -106,26 +106,26 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-336%20hrs%2024%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54.78%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54.81%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                1410 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-🌆 Daytime                13240 commits       █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-🌃 Evening                24849 commits       ██████████░░░░░░░░░░░░░░░   39.88 % 
-🌙 Night                  22805 commits       █████████░░░░░░░░░░░░░░░░   36.60 % 
+🌆 Daytime                13244 commits       █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+🌃 Evening                24878 commits       ██████████░░░░░░░░░░░░░░░   39.91 % 
+🌙 Night                  22805 commits       █████████░░░░░░░░░░░░░░░░   36.58 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   8917 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Tuesday                  9564 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Monday                   8917 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Tuesday                  9564 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
 Wednesday                9628 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Thursday                 10399 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Friday                   10706 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Saturday                 6298 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Sunday                   6792 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Thursday                 10399 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Friday                   10706 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Saturday                 6322 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Sunday                   6801 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
 ```
 
 
@@ -135,44 +135,44 @@ Sunday                   6792 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Markdown                 20 hrs 50 mins      █████████████░░░░░░░░░░░░   51.14 % 
-JavaScript               5 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Other                    4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-TypeScript               3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-JSON                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Markdown                 22 hrs 49 mins      █████████████░░░░░░░░░░░░   51.51 % 
+JavaScript               5 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Other                    4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+TypeScript               4 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+JSON                     2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 🔥 Editors: 
-Claude Code              28 hrs 24 mins      █████████████████░░░░░░░░   69.69 % 
-WebStorm                 9 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-Antigravity Desktop      1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-VS Code                  42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Claude Code              31 hrs              █████████████████░░░░░░░░   69.97 % 
+WebStorm                 10 hrs 24 mins      ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+Antigravity Desktop      1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+VS Code                  1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 💻 Operating System: 
-Windows                  34 hrs 11 mins      █████████████████████░░░░   83.90 % 
-Mac                      6 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Windows                  35 hrs 35 mins      ████████████████████░░░░░   80.32 % 
+Mac                      8 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 28 mins (89.48%)
+⏱ AI Coding Time: 40 hrs 3 mins (90.38%)
 
-✍️ 17,667 lines written by AI, 144 lines written by hand (99.19% AI-written)
+✍️ 18,594 lines written by AI, 150 lines written by hand (99.2% AI-written)
 
-🔤 22,444,907 Input Tokens, 4,186,525 Output Tokens
+🔤 24,611,562 Input Tokens, 4,417,091 Output Tokens
 
-💵 $701.20 Estimated AI Cost This Week
+💵 $745.10 Estimated AI Cost This Week
 
-🧠 63 AI Sessions, 413 AI Prompts
+🧠 65 AI Sessions, 454 AI Prompts
 
-Opus                     14,574 lines        ███████████████░░░░░░░░░░   60.16 % 
-Sonnet                   6,231 lines         ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-Fable                    3,420 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Opus                     15,533 lines        ███████████████░░░░░░░░░░   61.68 % 
+Sonnet                   6,231 lines         ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+Fable                    3,420 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.19% of written lines came from AI
-📄 Detailed Prompter — average 1,216 characters per prompt
+🤖 AI-Driven — 99.2% of written lines came from AI
+📄 Detailed Prompter — average 1,180 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.68% of changed lines were hand-edited
 ```
@@ -180,17 +180,17 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 **I Mostly Code in HTML** 
 
 ```text
-TypeScript               45 repos            ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-JavaScript               32 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-CSS                      25 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-C#                       7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+TypeScript               46 repos            ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+JavaScript               32 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+CSS                      25 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+C#                       7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 
 
 
- Last Updated on September 13, 2026 UTC
+ Last Updated on September 14, 2026 UTC
 <!--END_SECTION:waka-->
 
 <!-- 🚧 **My Todoist Stats:** -->
