@@ -135,45 +135,45 @@ Sunday                   3952 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Markdown                 19 hrs 1 min        ███████████░░░░░░░░░░░░░░   44.07 % 
-TypeScript               6 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-JavaScript               5 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Text                     2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Other                    2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Markdown                 21 hrs 5 mins       ███████████░░░░░░░░░░░░░░   44.42 % 
+TypeScript               6 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+JavaScript               6 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Text                     3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Other                    2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 🔥 Editors: 
-Claude Code              39 hrs 2 mins       ███████████████████████░░   90.41 % 
-WebStorm                 4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Antigravity IDE          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Claude Code              43 hrs 6 mins       ███████████████████████░░   90.79 % 
+WebStorm                 4 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Antigravity IDE          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  37 hrs 50 mins      ██████████████████████░░░   87.61 % 
-Mac                      5 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Windows                  43 hrs 34 mins      ███████████████████████░░   91.76 % 
+Mac                      3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 hrs 30 mins (96.12%)
+⏱ AI Coding Time: 45 hrs 39 mins (96.18%)
 
-✍️ 18,879 lines written by AI, 81 lines written by hand (99.57% AI-written)
+✍️ 24,702 lines written by AI, 88 lines written by hand (99.65% AI-written)
 
-🔤 31,705,086 Input Tokens, 2,521,610 Output Tokens
+🔤 35,498,475 Input Tokens, 2,991,834 Output Tokens
 
-💵 $635.11 Estimated AI Cost This Week
+💵 $735.37 Estimated AI Cost This Week
 
-🧠 69 AI Sessions, 491 AI Prompts
+🧠 73 AI Sessions, 545 AI Prompts
 
-Opus                     17,459 lines        ███████████████████████░░   90.71 % 
-Sonnet                   1,749 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Fable                    39 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Opus                     21,770 lines        ██████████████████████░░░   86.81 % 
+Sonnet                   1,749 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Fable                    1,558 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.57% of written lines came from AI
-📚 Verbose Prompter — average 1,917 characters per prompt
+🤖 AI-Driven — 99.65% of written lines came from AI
+📚 Verbose Prompter — average 1,927 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.44% of changed lines were hand-edited
+🚀 High AI Trust — 0.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -189,7 +189,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on October 04, 2026 UTC
+ Last Updated on October 05, 2026 UTC
 <!--END_SECTION:waka-->
 
 <!-- 🚧 **My Todoist Stats:** -->
