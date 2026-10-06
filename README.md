@@ -102,25 +102,25 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C894%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C898%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-459%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-463%20hrs%2057%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.57%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.58%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                1338 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 🌆 Daytime                9582 commits        ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-🌃 Evening                12573 commits       █████████░░░░░░░░░░░░░░░░   35.47 % 
-🌙 Night                  11957 commits       ████████░░░░░░░░░░░░░░░░░   33.73 % 
+🌃 Evening                12573 commits       █████████░░░░░░░░░░░░░░░░   35.46 % 
+🌙 Night                  11960 commits       ████████░░░░░░░░░░░░░░░░░   33.73 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   5685 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Tuesday                  5938 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Tuesday                  5941 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
 Wednesday                5230 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
 Thursday                 5950 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
 Friday                   5834 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
@@ -135,61 +135,61 @@ Sunday                   3740 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Markdown                 21 hrs 5 mins       ███████████░░░░░░░░░░░░░░   44.42 % 
-TypeScript               6 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-JavaScript               6 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Text                     3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Other                    2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Markdown                 18 hrs 51 mins      ███████████░░░░░░░░░░░░░░   42.06 % 
+JavaScript               7 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+TypeScript               5 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Text                     3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Other                    2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🔥 Editors: 
-Claude Code              43 hrs 6 mins       ███████████████████████░░   90.79 % 
-WebStorm                 4 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Claude Code              40 hrs 39 mins      ███████████████████████░░   90.70 % 
+WebStorm                 4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
 Antigravity IDE          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  43 hrs 34 mins      ███████████████████████░░   91.76 % 
-Mac                      3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Windows                  41 hrs 27 mins      ███████████████████████░░   92.46 % 
+Mac                      3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 hrs 39 mins (96.18%)
+⏱ AI Coding Time: 43 hrs (95.94%)
 
-✍️ 24,702 lines written by AI, 88 lines written by hand (99.65% AI-written)
+✍️ 22,648 lines written by AI, 85 lines written by hand (99.63% AI-written)
 
-🔤 35,498,475 Input Tokens, 2,991,834 Output Tokens
+🔤 30,693,999 Input Tokens, 2,777,661 Output Tokens
 
-💵 $735.37 Estimated AI Cost This Week
+💵 $710.86 Estimated AI Cost This Week
 
-🧠 73 AI Sessions, 545 AI Prompts
+🧠 62 AI Sessions, 494 AI Prompts
 
-Opus                     21,770 lines        ██████████████████████░░░   86.81 % 
-Sonnet                   1,749 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Fable                    1,558 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Opus                     19,405 lines        █████████████████████░░░░   85.44 % 
+Sonnet                   1,749 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Fable                    1,558 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.65% of written lines came from AI
-📚 Verbose Prompter — average 1,927 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.37% of changed lines were hand-edited
+🤖 AI-Driven — 99.63% of written lines came from AI
+📚 Verbose Prompter — average 2,073 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     68 repos            █████████░░░░░░░░░░░░░░░░   34.69 % 
-TypeScript               45 repos            ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-JavaScript               32 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-CSS                      25 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+HTML                     68 repos            █████████░░░░░░░░░░░░░░░░   34.52 % 
+TypeScript               46 repos            ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+JavaScript               32 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+CSS                      25 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
 Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 
 
 
- Last Updated on October 05, 2026 UTC
+ Last Updated on October 06, 2026 UTC
 <!--END_SECTION:waka-->
 
 <!-- 🚧 **My Todoist Stats:** -->
