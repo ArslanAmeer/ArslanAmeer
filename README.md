@@ -112,20 +112,20 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 
 ```text
 🌞 Morning                1338 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-🌆 Daytime                9582 commits        ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-🌃 Evening                12573 commits       █████████░░░░░░░░░░░░░░░░   35.46 % 
-🌙 Night                  11960 commits       ████████░░░░░░░░░░░░░░░░░   33.73 % 
+🌆 Daytime                9594 commits        ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+🌃 Evening                12591 commits       █████████░░░░░░░░░░░░░░░░   35.48 % 
+🌙 Night                  11960 commits       ████████░░░░░░░░░░░░░░░░░   33.71 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   5685 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Tuesday                  5941 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Wednesday                5230 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Thursday                 5950 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Friday                   5834 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Saturday                 3073 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Sunday                   3740 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Monday                   5685 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Tuesday                  5971 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Wednesday                5230 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Thursday                 5950 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Friday                   5834 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Saturday                 3073 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Sunday                   3740 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 ```
 
 
