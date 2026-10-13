@@ -102,9 +102,9 @@ Hi, I'm [Arslan](https://www.arslanameer.com), a Full Stack Engineer 🚀 from P
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C938%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C947%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-506%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-515%20hrs%2011%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.53%20million%20lines%20of%20code-blue?style=flat)
 
@@ -135,44 +135,44 @@ Sunday                   3831 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Markdown                 20 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   37.06 % 
-TypeScript               8 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-JavaScript               7 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Bash                     4 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-Other                    3 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Markdown                 22 hrs 34 mins      ██████████░░░░░░░░░░░░░░░   38.09 % 
+JavaScript               9 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+TypeScript               8 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Bash                     4 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Other                    3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 
 🔥 Editors: 
-Claude Code              49 hrs 56 mins      ███████████████████████░░   92.05 % 
-WebStorm                 4 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Claude Code              54 hrs 40 mins      ███████████████████████░░   92.24 % 
+WebStorm                 4 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 
 💻 Operating System: 
-Windows                  32 hrs 53 mins      ███████████████░░░░░░░░░░   60.63 % 
-Mac                      21 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   39.37 % 
+Windows                  34 hrs 7 mins       ██████████████░░░░░░░░░░░   57.58 % 
+Mac                      25 hrs 8 mins       ███████████░░░░░░░░░░░░░░   42.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 hrs 58 mins (97.65%)
+⏱ AI Coding Time: 57 hrs 42 mins (97.36%)
 
-✍️ 38,607 lines written by AI, 60 lines written by hand (99.84% AI-written)
+✍️ 43,394 lines written by AI, 94 lines written by hand (99.78% AI-written)
 
-🔤 45,798,504 Input Tokens, 5,950,722 Output Tokens
+🔤 51,218,340 Input Tokens, 7,369,355 Output Tokens
 
-💵 $817.12 Estimated AI Cost This Week
+💵 $905.71 Estimated AI Cost This Week
 
-🧠 74 AI Sessions, 627 AI Prompts
+🧠 85 AI Sessions, 683 AI Prompts
 
-Opus                     24,230 lines        ███████████████░░░░░░░░░░   59.15 % 
-Fable                    13,394 lines        ████████░░░░░░░░░░░░░░░░░   32.70 % 
-Sonnet                   3,338 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Opus                     29,055 lines        ████████████████░░░░░░░░░   63.46 % 
+Fable                    13,394 lines        ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+Sonnet                   3,338 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.84% of written lines came from AI
-📄 Detailed Prompter — average 1,254 characters per prompt
+🤖 AI-Driven — 99.78% of written lines came from AI
+📄 Detailed Prompter — average 1,201 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.2% of changed lines were hand-edited
+🚀 High AI Trust — 0.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -188,7 +188,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on October 12, 2026 UTC
+ Last Updated on October 13, 2026 UTC
 <!--END_SECTION:waka-->
 
 <!-- 🚧 **My Todoist Stats:** -->
